@@ -7,6 +7,9 @@ This game follows the classic Snake gameplay you're familiar with—each time th
 its body grows longer. However, if it accidentally runs into itself or crashes into a wall, 
 the game will end immediately.
 
+Download
+---
+[download Link](https://drive.google.com/file/d/1yHLjJlKnsuRGpbOCM_hurpqdVXwAP5Ku/view?usp=sharing)
 
 Technology Stack
 ---
