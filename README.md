@@ -11,7 +11,7 @@ Download
 ---
 [Link to Snake Game](https://drive.google.com/file/d/1yHLjJlKnsuRGpbOCM_hurpqdVXwAP5Ku/view?usp=sharing)
 
-[Link to JDK](https://drive.google.com/file/d/1yHLjJlKnsuRGpbOCM_hurpqdVXwAP5Ku/view?usp=sharing)
+[Link to JDK](https://www.oracle.com/java/technologies/downloads/)
 
     Note:
     Please click the "download link" above to download the game's JAR file. Since this game requires JDK 
