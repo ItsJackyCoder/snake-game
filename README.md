@@ -18,18 +18,11 @@ User Interface
 
     
 #### Home Page:
-![](static/images/homepage.png)
+![](assets/main_screen.png)
 
-#### Cash Inventory:
-![](static/images/cash_inventory.png)
+#### Game Over:
+![](assets/game_over.png)
 
-#### Stock Inventory:
-![](static/images/stock_inventory.png)
 
-#### Cash Record:
-![](static/images/cash_record.png)
-
-#### Stock Record:
-![](static/images/stock_record.png)
 
 
