@@ -9,7 +9,7 @@ the game will end immediately.
 
 Download
 ---
-[Link to Snake Game](https://drive.google.com/file/d/1yHLjJlKnsuRGpbOCM_hurpqdVXwAP5Ku/view?usp=sharing)
+[Link to Snake Game](https://drive.google.com/drive/folders/13U5MFBYBYRKDpuSPCnkBTPcvFVTklfVG?usp=sharing)
 
 [Link to JDK](https://www.oracle.com/java/technologies/downloads/)
 
