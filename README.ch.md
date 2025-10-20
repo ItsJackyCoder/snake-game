@@ -7,7 +7,6 @@
 遊戲就會立刻結束。
 
 下載連結
-
 ---
 [遊戲下載點](https://drive.google.com/drive/folders/13U5MFBYBYRKDpuSPCnkBTPcvFVTklfVG?usp=sharing)
 
